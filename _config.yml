@@ -1,14 +1,14 @@
 # Site settings
-title: oukohou
-subtitle: [ 璇珠杂俎]
-keywords: oukohou
-description: 我梦扬州，便想到扬州梦我。幸会。微信公众号：oukohou.
+title: FutureStar
+subtitle: [FutureStar]
+keywords: futurestarchinese
+description: 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.oukohou.wang/" # 你的域名
-page_no_title: "oukohou's blog" # 文章无标题时默认显示内容
+url: "https://futurestarchinese.github.io/" # 你的域名
+page_no_title: "futurestarchinese's blog" # 文章无标题时默认显示内容
 beian: # "备案号"
-author: oukohou
-email: oukohou@outlook.com
+author: futurestarchinese
+email: 
 
 # Build settings
 permalink: /:year/:month/:day/:title/
@@ -57,12 +57,8 @@ menu:
 # Link settings
 links: # 友情链接
 
-  - title: ccslience's blog
-    url: http://ccslience.oukohou.wang/
-  - title: oukohou's github
-    url: https://github.com/oukohou
-#  - title:
-#    url: http://jekyllcn.com/
+  - title: oukohou's blog
+    url: https://www.oukohou.wang/
   - title: Jekyll blog system
     url: http://jekyllcn.com/
 
@@ -75,7 +71,7 @@ google_analytics:
 # Code hub settings
 codehub: # 代码仓库
   - title: Github
-    url: https://github.com/oukohou
+    url: https://github.com/FutureStarChinese
 
 
 #valine:
