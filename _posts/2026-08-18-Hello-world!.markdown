@@ -14,10 +14,16 @@ That's all.
 
 
 
-{% highlight python %}
-def print_hi(name):
-   print("Hi, " + name)
-print_hi("I'm oukohou")
+{% highlight C++ %}
+
+#include <iostream>
+using namespace std;
+int main()
+{
+   cout << "Hello World! Hello Blog!";
+   return 0;
+}
+
 {% endhighlight %}
 
 regards.
