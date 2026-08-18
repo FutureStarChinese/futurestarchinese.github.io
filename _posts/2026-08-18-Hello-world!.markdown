@@ -27,5 +27,5 @@ int main()
 {% endhighlight %}
 
 regards.
-<h4 align = "right">oukohou.</h4>
+<h4 align = "right">Future Star.</h4>
 
