@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Learning HTML DAY 1"
-tags:   hello diary
+tags:   HELLO HTML
 date:   2026-08-19 17:33:35 +0800
 categories: [日志] 
 ---
