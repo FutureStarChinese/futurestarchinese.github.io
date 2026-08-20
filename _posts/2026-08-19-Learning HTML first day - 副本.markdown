@@ -6,7 +6,7 @@ date:   2026-08-19 17:33:35 +0800
 categories: [日志] 
 ---
 
-{% highlight html %}
+```html
 
 <!-- 声明使用html(hypertext markup language)5 doc(document)type -->
 <!-- 
@@ -209,7 +209,7 @@ onmouseover	所有元素	当用户将鼠标悬停在元素上时触发 JavaScrip
 onchange	表单元素	当元素的值发生变化时触发 JavaScript 事件。
 -->
 
-{% endhighlight %}
+```
 
 regards.
 <h4 align = "right">Future Star.</h4>
