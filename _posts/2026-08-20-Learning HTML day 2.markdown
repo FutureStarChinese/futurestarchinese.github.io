@@ -236,7 +236,7 @@ autocomplete属性用于<input>标签指定是否启用自动完成功能
 
 ### html图像
 
-```html
+``` html
 <!DOCTYPE html>
 
 <html>
